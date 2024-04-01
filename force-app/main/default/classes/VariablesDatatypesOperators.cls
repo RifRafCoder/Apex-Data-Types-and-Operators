@@ -21,7 +21,7 @@
 
  public with sharing class VariablesDatatypesOperators {
     /**
-     * Performs addition of two numbers.
+     * Performs addition of two numbers...
      * If either of the numbers is null, return null.
      * Example: addition(1, 2) should return 3
      * @param a The first number.
